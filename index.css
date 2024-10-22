@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("table.jpg");
+    font-weight: bolder;
+    color: blue;
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px; 
+}
+
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    background-color: goldenrod;
+    border-radius: 40%;
+    width: 150px;  
+}
+
+#message-el {
+    text-align: center;
+}
